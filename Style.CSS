@@ -1,0 +1,21 @@
+#myCanvas, #HUD{
+  position: absolute;
+  top: 0;
+  left:0;
+}
+
+#ground{
+  background-color : green;
+}
+
+#playGround{
+  position:relative;
+}
+
+#ressources *{
+  display:none;
+}
+
+canvas{
+  border: solid 5px black;
+}
